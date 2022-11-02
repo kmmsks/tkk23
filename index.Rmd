@@ -1,0 +1,165 @@
+---
+title: "Tutkijan kevätkoulu"
+output:
+  xaringan::moon_reader:
+    self_contained: true
+    seal: false
+    lib_dir: libs
+    nature:
+      autoplay:
+        interval: 3000
+        loop: true
+      loop: true
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+---
+class: inverse, middle
+
+```{r xaringanExtra-share-again, echo=FALSE}
+xaringanExtra::use_share_again()
+```
+
+<style>
+.remark-slide-content h1, .inverse h1 {
+  color: #ff5f0f;
+}
+.col1 {
+  color:yellow
+}
+
+.remark-slide-content h3, .inverse h3 {
+  font-size: 25px;
+    margin-top:-30px;
+    color: #fba490
+}
+
+.center2 {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
+
+.smaller {
+  font-size: 25px;
+  color: #fba490
+}
+
+</style>
+
+
+
+.pull-left[.center2[
+# Tutkijan kevätkoulu
+## Ke 15.3.2023 
+## Psykiatripäivien yhteydessä
+]]
+
+---
+class: inverse, middle
+
+.pull-left[.center2[
+# Tutkijan kevätkoulu
+## Ke 15.3.2023 
+## Psykiatripäivien yhteydessä
+]]
+
+.pull-right[
+
+## Tilastotiedettä psykiatritutkijalle workshop
+
+### Prof. Lauri Nummenmaa
+
+]
+
+---
+class: inverse, middle
+
+.pull-left[.center2[
+# Tutkijan kevätkoulu
+## Ke 15.3.2023 
+## Psykiatripäivien yhteydessä
+]]
+
+.pull-right[
+
+
+## Tieteellisen julkaisemisen tulevaisuus ja Psychiatrica Fennican esittely 
+
+### Dos. Erika Jääskeläinen
+
+]
+
+---
+class: inverse, middle
+
+.pull-left[.center2[
+# Tutkijan kevätkoulu
+## Ke 15.3.2023 
+## Psykiatripäivien yhteydessä
+]]
+
+.pull-right[
+
+
+## Tutkimuksen rahoittaminen ja rahoituksen hakeminen 
+
+### TBA
+
+]
+
+---
+class: inverse, middle
+
+.pull-left[.center2[
+# Tutkijan kevätkoulu
+## Ke 15.3.2023 
+## Psykiatripäivien yhteydessä
+]]
+
+.pull-right[
+
+## Nuorten tutkijoiden suulliset esitykset 
+
+### .col1[ Abstraktikutsu tulossa pian]
+
+]
+---
+class: inverse, middle
+
+.pull-left[.center2[
+# Tutkijan kevätkoulu
+## Ke 15.3.2023 
+## Psykiatripäivien yhteydessä
+]]
+
+.pull-right[
+
+
+## Iltatilaisuus
+
+### Candle light -luento
+]
+
+---
+class: inverse, middle
+
+.pull-left[.center2[
+# Tutkijan kevätkoulu
+## Ke 15.3.2023 
+## Psykiatripäivien yhteydessä
+]]
+
+.pull-right[
+
+```{r, eval=FALSE} 
+tallenna(paivämäärä, 
+         mihin = "mieleen|kalenteriin")
+
+```
+
+Lisätietoja:
+
+kimmo.suokas@tuni.fi, toni.ali-sisto@uef.fi
+]
+---
