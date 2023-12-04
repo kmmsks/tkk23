@@ -1,5 +1,7 @@
 # tkk23
 
-Save-the-date mainos Tutkijan kevätkoulusta
+Tutkijan kevätkoulu 2023
 
-Osoite: kmmsks.github.io/tkk23
+Save-the-date mainos Osoite: https://kmmsks.github.io/tkk23
+
+Ohjelma https://kmmsks.github.io/tkk23/ohjelma.html
